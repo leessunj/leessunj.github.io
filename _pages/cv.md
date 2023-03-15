@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 updated March 13, 2023
+<a href="https://drive.google.com/file/d/1daOO3ktFg0obuDwUzrUUfFm5HvgzLe9v/view?usp=sharing">Download CV in pdf </a>
 
 Education
 ======
@@ -65,7 +66,7 @@ Skills
 * Language Skills
   - Korean, English(TOEIC 845 /Nov 2019)
 
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -74,3 +75,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
